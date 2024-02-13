@@ -1,0 +1,39 @@
+MolPROP uses third-party libraries which may be distributed under different 
+licenses. We have attempted to list all of these third party libraries and 
+their licenses below. 
+
+You must agree to the terms of these licenses, in addition to the DSpace 
+source code license, in order to use this software.
+
+--------------------------------------------------
+Third party python libraries listed by License type
+[Format: Name (scripts/package) - URL]
+--------------------------------------------------
+
+MIT-0 License (http://opensource.org/licenses/MIT)
+    * DeepChem (split) - https://github.com/deepchem/deepchem/blob/master/LICENSE
+    * ChemBERTa-2 (MolPROP) - https://huggingface.co/DeepChem 
+    * torch_geometric (MolPROP) - https://github.com/pyg-team/pytorch_geometric/blob/master/LICENSE 
+
+Apache Software License, Version 2.0 (http://opensource.org/licenses/apache2.0)
+    * BERT langauge model architecture (MolPROP) - https://github.com/google-research/bert
+    * kornia (MolPROP) - https://github.com/kornia/kornia/blob/master/LICENSE
+    * ray (train_tune) - https://github.com/ray-project/ray/blob/master/LICENSE
+    * tensorboard (train_tune) - https://github.com/tensorflow/tensorboard/blob/master/LICENSE
+
+GNU GPL 3 (https://www.gnu.org/licenses/gpl.txt)
+    * RoBERTa (MolPROP) - https://github.com/dreamer/roberta/blob/master/LICENSE
+
+BSD License (http://www.opensource.org/licenses/bsd-license.php)
+    * RDKit (MolPROP) - https://github.com/rdkit/rdkit/blob/master/license.txt
+    * Biopython (MolPROP) - https://github.com/biopython/biopython/blob/master/LICENSE.rst
+    * Pytorch (DataLoader) - https://github.com/intel/torch/blob/master/LICENSE.md
+    * Sci-kit learn (MolPROP) - https://github.com/scikit-learn/scikit-learn/blob/main/COPYING
+    * numpy (MolPROP) - https://github.com/numpy/numpy/blob/main/LICENSE.txt
+    * pandas (split) - https://github.com/pandas-dev/pandas/blob/main/LICENSE
+
+Creative Commons License (https://creativecommons.org/licenses/by/4.0/)
+    * TR-MISR (MolPROP) - https://github.com/Suanmd/TR-MISR
+
+
+

@@ -1,0 +1,99 @@
+{
+"paths": {
+    "data_directory": "data",
+    "checkpoint_dir": "models/weights",
+    "log_dir": "logs/",
+    "precision": 32,
+    "use_atomsets": "hDIST",
+    "chemprop_maps": false,
+    "median_ref": false,
+
+    "**precision": "16, 32, or 64",
+    "**use_atomsets": "hDIST",
+    "**chemprop_maps": "add, channel, or false (if channel, encoder: in_channels = # of atomsets + 1)",
+    "**median_ref": "true or false (if true, encoder: in_channels = (# of atomsets + resprop_maps) * 2)"
+  },
+
+  "network": {
+    "encoder": {
+      "in_channels": 1,
+      "num_layers" : 2,
+      "kernel_size": 3,
+      "n_hidden_fusion": 64
+    },
+    "transformer": {
+      "depth": 1,
+      "heads": 8,
+      "mlp_dim": 32,
+      "dropout": 0.4849075056273958
+    }, 
+    "decoder": {
+        "kernel_size": 1
+    },
+    "language": {
+      "model": "chemberta-77m-mlm",
+      "graph": "GATv2",
+      "drop_rate": 0.25689688702296715,
+      "freeze": false,
+      "freeze_layer_count": 1,
+      "mode": "continuous",
+      "num_predictions": 1,
+
+      "**model": "chemberta-77m-mlm (3), chemberta-77m-mtr (3), none, chemberta-77m-mlm-only (3), chemberta-77m-mtr-only (3)",
+      "**graph": "false, GCN, GAT, GATv2",
+      "**freeze_layer_count": "chemberta (0-3)",
+      "**mode": "continuous or discrete"
+    }
+  },
+
+  "training": {
+    "dataset": "train_qm7.csv",
+     "train_all_data": false,
+     "kfold": 10,
+     "val_proportion": false,
+     "ray_tune": true,
+     "seed": 123,
+     "verbose": false,
+     "load_checkpoints": false,
+
+
+     "min_loss": 5,
+     "best_val_score": 300,
+
+     "num_epochs": 50,
+     "batch_size": 16,
+     "n_workers": 0,
+
+     "ens_L": 1,
+     "set_L": 1,
+
+     "lr_coder":   0.00015686882058242425,
+     "lr_transformer": 1.2957759237665303e-06,
+     "lr_lang":   1.2895820606332682e-08,
+     "lr_strategy": 3,
+     "lr_step": 1,
+     "lr_decay": 0.8787585778193224,
+
+     "combine_losses": false,
+     "loss": "L3",
+     "alpha1": 0.5,
+     "alpha2": 0.5,
+
+     "**lr_strategy": "0 = ReducePlateau, 1 = CosineAnneal, 2 = StepDecay, 3 = linear warmup inverse sqrt decay, 4 = Constant",
+     "**losses": "L1 or L2 or combination (alpha1*L1 + alpha2*L2) or L3 (RMSE) or focal or BCE"
+  },
+
+  "holdout":{
+    "dataset": "holdout_bbbp.csv",
+    "model_path": "./logs/batch_16_time_2023-11-17-17-44-45-705974/",
+    "atomsets": "hDIST",
+    "filename": "hp_tune_92db243c_qm7_chemberta-77m-mlm_ensL1_kf10_epoch37_GATv2_32bit",
+    "validation": false,
+    "ray_tune": "hp_tune_cbfe0eae_38_lr_ens_coder=0.0006,lr_ens_transformer=0.0000,lr_lang=0.0000,lr_step=1,lr_strategy=3,kernel_size=1,in_channels_2023-11-18_07-55-50",
+    "checkpoint": "checkpoint_000037",
+    "resprop_maps": false,
+    "validated_model": false,
+    "epoch_num": false,
+    "holdout_data_path": "data"
+ }
+}

@@ -1,0 +1,578 @@
+,X,y,w,ids
+0,methanesulfonyl chloride,-4.87,1.0,CS(=O)(=O)Cl
+1,3-methylbut-1-ene,1.83,1.0,CC(C)C=C
+2,heptan-1-ol,-4.21,1.0,CCCCCCCO
+3,"2,3-dimethylbutane",2.34,1.0,CC(C)C(C)C
+4,2-methylpentan-2-ol,-3.92,1.0,CCCC(C)(C)O
+5,butan-2-ol,-4.62,1.0,CC[C@H](C)O
+6,dibromomethane,-1.96,1.0,C(Br)Br
+7,2-methylpentan-3-ol,-3.88,1.0,CC[C@H](C(C)C)O
+8,ethyl pentanoate,-2.49,1.0,CCCCC(=O)OCC
+9,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",-4.78,1.0,CC(=CCC/C(=C\CO)/C)C
+10,"2,2-dimethylpentane",2.88,1.0,CCCC(C)(C)C
+11,2-acetoxyethyl acetate,-6.34,1.0,CC(=O)OCCOC(=O)C
+12,ethion,-6.1,1.0,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC
+13,pentanenitrile,-3.52,1.0,CCCCC#N
+14,2-methylpropan-2-ol,-4.47,1.0,CC(C)(C)O
+15,"2,4-dimethylpentan-3-one",-2.74,1.0,CC(C)C(=O)C(C)C
+16,propanal,-3.43,1.0,CCC=O
+17,"N,N-dimethylformamide",-7.81,1.0,CN(C)C=O
+18,"penta-1,4-diene",0.93,1.0,C=CCC=C
+19,N-ethylethanamine,-4.07,1.0,CCNCC
+20,isopentyl formate,-2.13,1.0,CC(C)CCOC=O
+21,decan-1-ol,-3.64,1.0,CCCCCCCCCCO
+22,ethyl propanoate,-2.68,1.0,CCC(=O)OCC
+23,nonane,3.13,1.0,CCCCCCCCC
+24,N-methylacetamide,-10.0,1.0,CC(=O)NC
+25,non-1-ene,2.06,1.0,CCCCCCCC=C
+26,"(2R,3R,4R,5R)-Hexan-1,2,3,4,5,6-hexol",-23.62,1.0,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+27,methyl butanoate,-2.83,1.0,CCCC(=O)OC
+28,N-propylpropan-1-amine,-3.65,1.0,CCCNCCC
+29,tetrafluoromethane,3.12,1.0,C(F)(F)(F)F
+30,2-methylbutan-1-ol,-4.42,1.0,CC[C@@H](C)CO
+31,but-1-yne,-0.16,1.0,CCC#C
+32,hydrazine,-9.3,1.0,NN
+33,octan-1-amine,-3.65,1.0,CCCCCCCCN
+34,ammonia,-4.29,1.0,N
+35,"1,1-difluoroethane",-0.11,1.0,CC(F)F
+36,butadiene,0.56,1.0,C=CC=C
+37,"N,N-dimethylmethanamine",-3.2,1.0,CN(C)C
+38,hexanamide,-9.31,1.0,CCCCCC(=O)N
+39,isobutyl nitrate,-1.88,1.0,CC(C)CO[N+](=O)[O-]
+40,2-(nitrooxy)ethan-1-ol,-8.18,1.0,C(CO[N+](=O)[O-])O
+41,octan-2-one,-2.88,1.0,CCCCCCC(=O)C
+42,ethanamine,-4.5,1.0,CCN
+43,"1,1-dichloroethane",-0.84,1.0,CC(Cl)Cl
+44,1-bromooctane,0.52,1.0,CCCCCCCCBr
+45,n-butane,2.1,1.0,CCCC
+46,chloromethane,-0.55,1.0,CCl
+47,1-bromo-2-methyl-propane,-0.03,1.0,CC(C)CBr
+48,2-isopropylsulfanylpropane,-1.21,1.0,CC(C)SC(C)C
+49,heptane,2.67,1.0,CCCCCCC
+50,diiodomethane,-2.49,1.0,C(I)I
+51,"N,N-dipropyl(propylsulfanyl)formamide",-4.13,1.0,CCCN(CCC)C(=O)SCCC
+52,nitromethane,-4.02,1.0,C[N+](=O)[O-]
+53,methoxyethane,-2.1,1.0,CCOC
+54,"2-chloro-1,1,1-trimethoxy-ethane",-4.59,1.0,COC(CCl)(OC)OC
+55,isobutane,2.3,1.0,CC(C)C
+56,3-methylbutanoic acid,-6.09,1.0,CC(C)CC(=O)O
+57,1-chloropropane,-0.33,1.0,CCCCl
+58,1-propylsulfanylpropane,-1.28,1.0,CCCSCCC
+59,hexan-3-ol,-4.06,1.0,CCC[C@H](CC)O
+60,acetonitrile,-3.88,1.0,CC#N
+61,"2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-ethane",0.1,1.0,[C@@H](C(F)(F)F)(OC(F)F)Cl
+62,"hexa-1,5-diene",1.01,1.0,C=CCCC=C
+63,methyl acetate,-3.13,1.0,CC(=O)OC
+64,propanethiol,-1.1,1.0,CCCS
+65,heptan-2-one,-3.04,1.0,CCCCCC(=O)C
+66,ethyl hexanoate,-2.23,1.0,CCCCCC(=O)OCC
+67,1-methoxypropane,-1.66,1.0,CCCOC
+68,N-methylmethanamine,-4.29,1.0,CNC
+69,"1,1,2,3,3,3-hexafluoroprop-1-ene",2.93,1.0,C(=C(F)F)(C(F)(F)F)F
+70,iodomethane,-0.89,1.0,CI
+71,"(E)-1,2-dichloroethylene",-0.78,1.0,C(=C/Cl)\Cl
+72,n-pentane,2.3,1.0,CCCCC
+73,butanenitrile,-3.64,1.0,CCCC#N
+74,"2-bromo-1,1,1,2-tetrafluoro-ethane",0.5,1.0,[C@@H](C(F)(F)F)(F)Br
+75,[(2S)-butan-2-yl] nitrate,-1.82,1.0,CC[C@H](C)O[N+](=O)[O-]
+76,"2,3-dimethylpentane",2.52,1.0,CC[C@@H](C)C(C)C
+77,4-methylpentan-2-ol,-3.73,1.0,C[C@H](CC(C)C)O
+78,"1,1-dichloroethylene",0.25,1.0,C=C(Cl)Cl
+79,2-methylpropan-1-ol,-4.5,1.0,CC(C)CO
+80,propyl propanoate,-2.44,1.0,CCCOC(=O)CC
+81,hexachloroethane,-0.64,1.0,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl
+82,2-chloro-2-methyl-propane,1.09,1.0,CC(C)(C)Cl
+83,isoprene,0.68,1.0,CC(=C)C=C
+84,ethylene glycol,-9.3,1.0,C(CO)O
+85,propyl formate,-2.48,1.0,CCCOC=O
+86,hexanoic acid,-6.21,1.0,CCCCCC(=O)O
+87,diethyl butanedioate,-5.71,1.0,CCOC(=O)CCC(=O)OCC
+88,methyl 2-chloroacetate,-4.0,1.0,COC(=O)CCl
+89,butanal,-3.18,1.0,CCCC=O
+90,"1,1,2-trichloroethylene",-0.44,1.0,C(=C(Cl)Cl)Cl
+91,"N,N-diethylethanamine",-3.22,1.0,CCN(CC)CC
+92,3-chloroprop-1-ene,-0.57,1.0,C=CCCl
+93,formaldehyde,-2.75,1.0,C=O
+94,"1,1,1-trimethoxyethane",-4.42,1.0,CC(OC)(OC)OC
+95,2-methoxypropane,-2.01,1.0,CC(C)OC
+96,"1,1,2-trichloroethane",-1.99,1.0,C(C(Cl)Cl)Cl
+97,isopropyl acetate,-2.64,1.0,CC(C)OC(=O)C
+98,"2,3-dimethylbuta-1,3-diene",0.4,1.0,CC(=C)C(=C)C
+99,hex-1-ene,1.58,1.0,CCCCC=C
+100,hydrogen sulfide,-0.7,1.0,S
+101,ethoxyethane,-1.59,1.0,CCOCC
+102,hexyl acetate,-2.26,1.0,CCCCCCOC(=O)C
+103,pentanoic acid,-6.16,1.0,CCCCC(=O)O
+104,bromoethane,-0.74,1.0,CCBr
+105,hexan-1-ol,-4.4,1.0,CCCCCCO
+106,hexyl nitrate,-1.66,1.0,CCCCCCO[N+](=O)[O-]
+107,bromoform,-2.13,1.0,C(Br)(Br)Br
+108,2-propoxyethanol,-6.4,1.0,CCCOCCO
+109,butyric acid,-6.35,1.0,CCCC(=O)O
+110,"1,1,1-trifluoro-2,2,2-trimethoxyethane",-0.8,1.0,COC(C(F)(F)F)(OC)OC
+111,bromo-trifluoro-methane,1.79,1.0,C(F)(F)(F)Br
+112,butan-1-ol,-4.72,1.0,CCCCO
+113,ethyl acetate,-2.94,1.0,CCOC(=O)C
+114,isobutyl 2-methylpropanoate,-1.69,1.0,CC(C)COC(=O)C(C)C
+115,2-methoxy-2-methyl-propane,-2.21,1.0,CC(C)(C)OC
+116,pentan-3-one,-3.41,1.0,CCC(=O)CC
+117,"methyl 2,2,2-trifluoroacetate",-1.1,1.0,COC(=O)C(F)(F)F
+118,"3,3-dimethylbutan-2-one",-3.11,1.0,CC(=O)C(C)(C)C
+119,methyl methanesulfonate,-4.87,1.0,COS(=O)(=O)C
+120,N-isopropylpropan-2-amine,-3.22,1.0,CC(C)NC(C)C
+121,heptan-1-amine,-3.79,1.0,CCCCCCCN
+122,propane,2.0,1.0,CCC
+123,dichloromethane,-1.31,1.0,C(Cl)Cl
+124,"methyl 2,2-dimethylpropanoate",-2.4,1.0,CC(C)(C)C(=O)OC
+125,trichloro(nitro)methane,-1.45,1.0,C([N+](=O)[O-])(Cl)(Cl)Cl
+126,nonan-2-one,-2.49,1.0,CCCCCCCC(=O)C
+127,butan-1-amine,-4.24,1.0,CCCCN
+128,ethyl butanoate,-2.49,1.0,CCCC(=O)OCC
+129,1-iodohexane,0.08,1.0,CCCCCCI
+130,"1,1,2-trichloro-1,2,2-trifluoro-ethane",1.77,1.0,C(C(F)(Cl)Cl)(F)(F)Cl
+131,trimethyl phosphate,-8.7,1.0,COP(=O)(OC)OC
+132,isohexane,2.51,1.0,CCCC(C)C
+133,"2-chloro-1,1,1-trifluoro-ethane",0.06,1.0,C(C(F)(F)F)Cl
+134,ethylene,1.28,1.0,C=C
+135,1-iodopentane,-0.14,1.0,CCCCCI
+136,trimethoxymethane,-4.42,1.0,COC(OC)OC
+137,decane,3.16,1.0,CCCCCCCCCC
+138,"1,2-dinitroxypropane",-4.95,1.0,C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-]
+139,prop-1-ene,1.32,1.0,CC=C
+140,"(1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol",-12.74,1.0,COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC
+141,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",-4.45,1.0,CC(=CCC/C(=C/CO)/C)C
+142,"2,3,4-trimethylpentane",2.56,1.0,CC(C)C(C)C(C)C
+143,3-methylbutan-2-one,-3.24,1.0,CC(C)C(=O)C
+144,N-butylbutan-1-amine,-3.24,1.0,CCCCNCCCC
+145,butane-1-thiol,-0.99,1.0,CCCCS
+146,chloro-difluoro-methane,-0.5,1.0,C(F)(F)Cl
+147,prop-1-yne,-0.48,1.0,CC#C
+148,nonanal,-2.07,1.0,CCCCCCCCC=O
+149,propionic acid,-6.46,1.0,CCC(=O)O
+150,chloroform,-1.08,1.0,C(Cl)(Cl)Cl
+151,methane,2.0,1.0,C
+152,1-chlorobutane,-0.16,1.0,CCCCCl
+153,isobutyl formate,-2.22,1.0,CC(C)COC=O
+154,"1,2-diethoxyethane",-3.54,1.0,CCOCCOCC
+155,pentyl propanoate,-2.11,1.0,CCCCCOC(=O)CC
+156,2-methylbut-2-ene,1.31,1.0,CC=C(C)C
+157,"1,2-dichloroethane",-1.79,1.0,C(CCl)Cl
+158,"3,3-dimethylpentane",2.56,1.0,CCC(C)(C)CC
+159,"2,2-dichloro-1,1-difluoro-1-methoxy-ethane",-1.12,1.0,COC(C(Cl)Cl)(F)F
+160,2-ethoxyethyl acetate,-5.31,1.0,CCOCCOC(=O)C
+161,2-methylbutan-2-ol,-4.43,1.0,CCC(C)(C)O
+162,dimethoxymethane,-2.93,1.0,COCOC
+163,pentan-3-ol,-4.35,1.0,CCC(CC)O
+164,undecan-2-one,-2.15,1.0,CCCCCCCCCC(=O)C
+165,1-bromo-2-chloro-ethane,-1.95,1.0,C(CBr)Cl
+166,iodoethane,-0.74,1.0,CCI
+167,2-bromopropane,-0.48,1.0,CC(C)Br
+168,methylsulfonylmethane,-10.08,1.0,CS(=O)(=O)C
+169,pent-2-ene,1.31,1.0,CC/C=C\C
+170,ethane,1.83,1.0,CC
+171,ethylsulfanylethane,-1.46,1.0,CCSCC
+172,chloro-fluoro-methane,-0.77,1.0,C(F)Cl
+173,pent-1-ene,1.68,1.0,CCCC=C
+174,hept-1-yne,0.6,1.0,CCCCCC#C
+175,decan-2-one,-2.34,1.0,CCCCCCCCC(=O)C
+176,pentanal,-3.03,1.0,CCCCC=O
+177,1-nitrobutane,-3.09,1.0,CCCC[N+](=O)[O-]
+178,1-chloro-2-(2-chloroethoxy)ethane,-4.23,1.0,C(CCl)OCCCl
+179,1-nitroethane,-3.71,1.0,CC[N+](=O)[O-]
+180,bromomethane,-0.82,1.0,CBr
+181,methanol,-5.1,1.0,CO
+182,heptanal,-2.67,1.0,CCCCCCC=O
+183,octanal,-2.29,1.0,CCCCCCCC=O
+184,fluoromethane,-0.22,1.0,CF
+185,methylsulfinylmethane,-9.28,1.0,CS(=O)C
+186,1-bromobutane,-0.4,1.0,CCCCBr
+187,nonan-1-ol,-3.88,1.0,CCCCCCCCCO
+188,"1,1,2,2-tetrachloroethylene",0.1,1.0,C(=C(Cl)Cl)(Cl)Cl
+189,2-bromo-2-methyl-propane,0.84,1.0,CC(C)(C)Br
+190,"1,1,1,2-tetramethoxyethane",-5.73,1.0,COCC(OC)(OC)OC
+191,acetamide,-9.71,1.0,CC(=O)N
+192,dimethyl sulfate,-5.1,1.0,COS(=O)(=O)OC
+193,"1,1,2,2-tetrachloroethane",-2.37,1.0,C(C(Cl)Cl)(Cl)Cl
+194,1-bromohexane,0.18,1.0,CCCCCCBr
+195,1-bromoheptane,0.34,1.0,CCCCCCCBr
+196,"3,3,3-trimethoxypropanenitrile",-6.4,1.0,COC(CC#N)(OC)OC
+197,2-chlorobutane,0.0,1.0,CC[C@H](C)Cl
+198,diethyl propanedioate,-6.0,1.0,CCOC(=O)CC(=O)OCC
+199,methylsulfanylmethane,-1.61,1.0,CSC
+200,methyl pentanoate,-2.56,1.0,CCCCC(=O)OC
+201,2-methylpent-1-ene,1.47,1.0,CCCC(=C)C
+202,chloroethylene,-0.59,1.0,C=CCl
+203,heptan-4-one,-2.92,1.0,CCCC(=O)CCC
+204,propyl butanoate,-2.28,1.0,CCCC(=O)OCCC
+205,2-ethoxyethanol,-6.69,1.0,CCOCCO
+206,3-methylpentane,2.51,1.0,CCC(C)CC
+207,1-nitropropane,-3.34,1.0,CCC[N+](=O)[O-]
+208,ethanol,-5.0,1.0,CCO
+209,ethyl formate,-2.56,1.0,CCOC=O
+210,octan-1-ol,-4.09,1.0,CCCCCCCCO
+211,but-1-ene,1.38,1.0,CCC=C
+212,carbon tetrachloride,0.08,1.0,C(Cl)(Cl)(Cl)Cl
+213,methyldisulfanylmethane,-1.83,1.0,CSSC
+214,"2,3-diacetoxypropyl acetate",-8.84,1.0,CC(=O)OCC(COC(=O)C)OC(=O)C
+215,methoxymethane,-1.91,1.0,COC
+216,hexane,2.48,1.0,CCCCCC
+217,"1,2-dibromoethane",-2.33,1.0,C(CBr)Br
+218,"1,1,1,2,2-pentachloroethane",-1.23,1.0,C(C(Cl)(Cl)Cl)(Cl)Cl
+219,propyl acetate,-2.79,1.0,CCCOC(=O)C
+220,ethanethiol,-1.14,1.0,CCS
+221,ethyldisulfanylethane,-1.64,1.0,CCSSCC
+222,pentan-2-one,-3.52,1.0,CCCC(=O)C
+223,acetic acid,-6.69,1.0,CC(=O)O
+224,acetaldehyde,-3.5,1.0,CC=O
+225,hex-1-yne,0.29,1.0,CCCCC#C
+226,propanenitrile,-3.84,1.0,CCC#N
+227,butyl acetate,-2.64,1.0,CCCCOC(=O)C
+228,aldicarb,-9.84,1.0,CC(C)(/C=N\OC(=O)NC)SC
+229,2-methylpropanal,-2.86,1.0,CC(C)C=O
+230,propionamide,-9.4,1.0,CCC(=O)N
+231,1-bromopropane,-0.56,1.0,CCCBr
+232,2-chloropropane,-0.25,1.0,CC(C)Cl
+233,"1,3-dichloropropane",-1.89,1.0,C(CCl)CCl
+234,"1,2-dichloropropane",-1.27,1.0,C[C@@H](CCl)Cl
+235,diethoxy-(ethylsulfanylmethylsulfanyl)-thioxo-$l^{5}-phosphane,-4.37,1.0,CCOP(=S)(OCC)SCSCC
+236,acetone,-3.8,1.0,CC(=O)C
+237,2-methylprop-1-ene,1.16,1.0,CC(=C)C
+238,1-nitropentane,-2.82,1.0,CCCCC[N+](=O)[O-]
+239,(2E)-hex-2-enal,-3.68,1.0,CCC/C=C/C=O
+240,octane,2.88,1.0,CCCCCCCC
+241,"(3R)-3,7-Dimethylocta-1,6-dien-3-yl acetate",-2.49,1.0,CC(=CCC[C@](C)(C=C)OC(=O)C)C
+242,"1,3-bis-(nitrooxy)butane",-4.29,1.0,C[C@@H](CCO[N+](=O)[O-])O[N+](=O)[O-]
+243,2-isopropoxypropane,-0.53,1.0,CC(C)OC(C)C
+244,2-methylhexane,2.93,1.0,CCCCC(C)C
+245,"2-bromo-2-chloro-1,1,1-trifluoro-ethane",-0.11,1.0,[C@@H](C(F)(F)F)(Cl)Br
+246,1-butoxybutane,-0.83,1.0,CCCCOCCCC
+247,"2,4-dimethylpentane",2.83,1.0,CC(C)CC(C)C
+248,but-2-enal,-4.22,1.0,C/C=C/C=O
+249,3-methylhexane,2.71,1.0,CCC[C@H](C)CC
+250,"1,2-dimethoxyethane",-4.84,1.0,COCCOC
+251,isopentyl acetate,-2.21,1.0,CC(C)CCOC(=O)C
+252,1-chlorohexane,0.0,1.0,CCCCCCCl
+253,4-methylpentan-2-one,-3.05,1.0,CC(C)CC(=O)C
+254,hexanal,-2.81,1.0,CCCCCC=O
+255,"1,1-diethoxyethane",-3.28,1.0,CCOC(C)OCC
+256,methanethiol,-1.2,1.0,CS
+257,prop-2-en-1-ol,-5.03,1.0,C=CCO
+258,methylsulfanylethane,-1.5,1.0,CCSC
+259,pentyl acetate,-2.51,1.0,CCCCCOC(=O)C
+260,chloroethane,-0.63,1.0,CCCl
+261,3-methylbutan-1-ol,-4.42,1.0,CC(C)CCO
+262,pentan-1-amine,-4.09,1.0,CCCCCN
+263,"2,2,5-trimethylhexane",2.93,1.0,CC(C)CCC(C)(C)C
+264,2-butoxyethanol,-6.25,1.0,CCCCOCCO
+265,2-nitropropane,-3.13,1.0,CC(C)[N+](=O)[O-]
+266,glycerol,-13.43,1.0,C(C(CO)O)O
+267,1-iodopropane,-0.53,1.0,CCCI
+268,2-methoxyethanamine,-6.55,1.0,COCCN
+269,"1,1,1,2-tetrachloroethane",-1.43,1.0,C(C(Cl)(Cl)Cl)Cl
+270,methyl propanoate,-2.93,1.0,CCC(=O)OC
+271,2-methoxyethanol,-6.62,1.0,COCCO
+272,methyl formate,-2.78,1.0,COC=O
+273,"1,4-dichlorobutane",-2.32,1.0,C(CCCl)CCl
+274,nitroxyacetone,-5.99,1.0,CC(=O)CO[N+](=O)[O-]
+275,methyl hexanoate,-2.49,1.0,CCCCCC(=O)OC
+276,"1,1,1-trifluoropropan-2-ol",-4.16,1.0,C[C@@H](C(F)(F)F)O
+277,1-bromo-pentane,-0.1,1.0,CCCCCBr
+278,oct-1-ene,1.92,1.0,CCCCCCC=C
+279,propan-2-ol,-4.74,1.0,CC(C)O
+280,hexan-1-amine,-3.95,1.0,CCCCCCN
+281,3-nitrooxypropyl nitrate,-4.8,1.0,C(CO[N+](=O)[O-])CO[N+](=O)[O-]
+282,pentan-1-ol,-4.57,1.0,CCCCCO
+283,pentan-2-ol,-4.39,1.0,CCC[C@@H](C)O
+284,3-methylheptane,2.97,1.0,CCCC[C@@H](C)CC
+285,diethyl (2R)-2-dimethoxyphosphinothioylsulfanylbutanedioate,-8.15,1.0,CCOC(=O)C[C@H](C(=O)OCC)SP(=S)(OC)OC
+286,hept-2-ene,1.68,1.0,CCCC/C=C/C
+287,1-propoxypropane,-1.16,1.0,CCCOCCC
+288,"2,2,4-trimethylpentane",2.89,1.0,CC(C)CC(C)(C)C
+289,nonan-5-one,-2.64,1.0,CCCCC(=O)CCCC
+290,pebulate,-3.64,1.0,CCCCN(CC)C(=O)SCCC
+291,hept-1-ene,1.66,1.0,CCCCCC=C
+292,isopropyl formate,-2.02,1.0,CC(C)OC=O
+293,1-acetoxyethyl acetate,-4.97,1.0,CC(OC(=O)C)OC(=O)C
+294,isopentane,2.38,1.0,CCC(C)C
+295,butyl nitrate,-2.09,1.0,CCCCO[N+](=O)[O-]
+296,"1,1,1-trichloroethane",-0.19,1.0,CC(Cl)(Cl)Cl
+297,1-iodoheptane,0.27,1.0,CCCCCCCI
+298,1-chloro-pentane,-0.1,1.0,CCCCCCl
+299,isobutyl acetate,-2.36,1.0,CC(C)COC(=O)C
+300,"2,2-dimethylbutane",2.51,1.0,CCC(C)(C)C
+301,methyl 2-cyanoacetate,-6.72,1.0,COC(=O)CC#N
+302,methanamine,-4.55,1.0,CN
+303,"(Z)-1,2-dichloroethylene",-1.17,1.0,C(=C\Cl)\Cl
+304,hexan-2-one,-3.28,1.0,CCCCC(=O)C
+305,"1,2-dinitroxyethane",-5.73,1.0,C(CO[N+](=O)[O-])O[N+](=O)[O-]
+306,triethylphosphate,-7.5,1.0,CCOP(=O)(OCC)OCC
+307,"2,2,2-trifluoroethanol",-4.31,1.0,C(C(F)(F)F)O
+308,1-butoxy-2-propanol,-5.73,1.0,CCCCOC[C@H](C)O
+309,propan-1-ol,-4.85,1.0,CCCO
+310,neopentane,2.51,1.0,CC(C)(C)C
+311,pent-1-yne,0.01,1.0,CCCC#C
+312,1-iodobutane,-0.25,1.0,CCCCI
+313,2-iodopropane,-0.46,1.0,CC(C)I
+314,111-trifluoropropan-2-ol,-4.2,1.0,C[C@H](C(F)(F)F)O
+315,propan-1-amine,-4.39,1.0,CCCN
+316,oct-2-enal,-3.43,1.0,CCCCC/C=C/C=O
+317,oct-1-yne,0.71,1.0,CCCCCCC#C
+318,methyl octanoate,-2.04,1.0,CCCCCCCC(=O)OC
+319,1-chloroheptane,0.29,1.0,CCCCCCCCl
+320,"4-methoxy-N,N-dimethyl-benzamide",-11.01,1.0,CN(C)C(=O)c1ccc(cc1)OC
+321,"3,5-dimethylphenol",-6.27,1.0,Cc1cc(cc(c1)O)C
+322,benzenethiol,-2.55,1.0,c1ccc(cc1)S
+323,ethoxybenzene,-2.22,1.0,CCOc1ccccc1
+324,4-bromophenol,-5.85,1.0,c1cc(ccc1O)Br
+325,benzonitrile,-4.1,1.0,c1ccc(cc1)C#N
+326,p-xylene,-0.8,1.0,Cc1ccc(cc1)C
+327,"N,N-dimethylbenzamide",-9.29,1.0,CN(C)C(=O)c1ccccc1
+328,4-tert-butylphenol,-5.91,1.0,CC(C)(C)c1ccc(cc1)O
+329,"1,2,4-trichlorobenzene",-1.12,1.0,c1cc(c(cc1Cl)Cl)Cl
+330,2-hydroxybenzaldehyde,-4.68,1.0,c1ccc(c(c1)C=O)O
+331,aniline,-5.49,1.0,c1ccc(cc1)N
+332,2-iodophenol,-6.2,1.0,c1ccc(c(c1)O)I
+333,"2,6-dimethoxyphenol",-6.96,1.0,COc1cccc(c1O)OC
+334,trifluoromethylbenzene,-0.25,1.0,c1ccc(cc1)C(F)(F)F
+335,"1,2-bis(trifluoromethyl)benzene",1.07,1.0,c1ccc(c(c1)C(F)(F)F)C(F)(F)F
+336,methyl paraben,-9.51,1.0,COC(=O)c1ccc(cc1)O
+337,pentylbenzene,-0.23,1.0,CCCCCc1ccccc1
+338,3-methoxyphenol,-7.66,1.0,COc1cccc(c1)O
+339,phenylmethanol,-6.62,1.0,c1ccc(cc1)CO
+340,"2-chloro-1-(2,4-dichlorophenyl)ethenyl diethyl phosphate",-7.07,1.0,CCOP(=O)(OCC)O/C(=C/Cl)/c1ccc(cc1Cl)Cl
+341,"N-methyl-N-(2,2,2-trifluoroethyl)aniline",-1.92,1.0,CN(CC(F)(F)F)c1ccccc1
+342,m-xylene,-0.83,1.0,Cc1cccc(c1)C
+343,trimethoxymethylbenzene,-4.04,1.0,COC(c1ccccc1)(OC)OC
+344,ethyl benzoate,-3.64,1.0,CCOC(=O)c1ccccc1
+345,benzyl bromide,-2.38,1.0,c1ccc(cc1)CBr
+346,3-hydroxybenzonitrile,-9.65,1.0,c1cc(cc(c1)O)C#N
+347,propylbenzene,-0.53,1.0,CCCc1ccccc1
+348,4-chlorophenol,-7.03,1.0,c1cc(ccc1O)Cl
+349,"3,5-dichloro-2,6-dimethoxyphenol",-6.44,1.0,COc1c(cc(c(c1O)OC)Cl)Cl
+350,methylsulfanylbenzene,-2.73,1.0,CSc1ccccc1
+351,2-ethylphenol,-5.66,1.0,CCc1ccccc1O
+352,1-isopropyl-4-methyl-benzene,-0.68,1.0,Cc1ccc(cc1)C(C)C
+353,"1,2-dichlorobenzene",-1.36,1.0,c1ccc(c(c1)Cl)Cl
+354,ethylbenzene,-0.79,1.0,CCc1ccccc1
+355,benzaldehyde,-4.02,1.0,c1ccc(cc1)C=O
+356,1-(p-tolyl)ethanone,-4.7,1.0,Cc1ccc(cc1)C(=O)C
+357,1-chloro-2-methyl-benzene,-1.14,1.0,Cc1ccccc1Cl
+358,butylbenzene,-0.4,1.0,CCCCc1ccccc1
+359,"N,N-dimethylaniline",-3.45,1.0,CN(C)c1ccccc1
+360,N-methylaniline,-4.69,1.0,CNc1ccccc1
+361,benzene,-0.9,1.0,c1ccccc1
+362,"1,2,3-trichlorobenzene",-1.24,1.0,c1cc(c(c(c1)Cl)Cl)Cl
+363,4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-thioxo-$l^{5}-phosphane,-6.5,1.0,CCOP(=S)(OCC)SCSc1ccc(cc1)Cl
+364,butyl paraben,-8.72,1.0,CCCCOC(=O)c1ccc(cc1)O
+365,4-ethylphenol,-6.13,1.0,CCc1ccc(cc1)O
+366,phenyl formate,-3.82,1.0,c1ccc(cc1)OC=O
+367,fluorobenzene,-0.8,1.0,c1ccc(cc1)F
+368,acetylsalicylic acid,-9.94,1.0,CC(=O)Oc1ccccc1C(=O)O
+369,3-hydroxybenzaldehyde,-9.52,1.0,c1cc(cc(c1)O)C=O
+370,"2,6-dimethylphenol",-5.26,1.0,Cc1cccc(c1O)C
+371,m-cresol,-5.49,1.0,Cc1cccc(c1)O
+372,4-methylaniline,-5.57,1.0,Cc1ccc(cc1)N
+373,"1,3-dichlorobenzene",-0.98,1.0,c1cc(cc(c1)Cl)Cl
+374,cumene,-0.3,1.0,CC(C)c1ccccc1
+375,"2,6-dichlorosyringaldehyde",-8.68,1.0,COc1c(c(c(c(c1Cl)C=O)Cl)OC)O
+376,methyl 4-nitrobenzoate,-6.88,1.0,COC(=O)c1ccc(cc1)[N+](=O)[O-]
+377,"1,2,3-trimethylbenzene",-1.21,1.0,Cc1cccc(c1C)C
+378,benzyl chloride,-1.93,1.0,c1ccc(cc1)CCl
+379,4-methyl-2-methoxyphenol,-5.8,1.0,Cc1ccc(c(c1)OC)O
+380,toluene,-0.9,1.0,Cc1ccccc1
+381,ethyl paraben,-9.2,1.0,CCOC(=O)c1ccc(cc1)O
+382,4-propylphenol,-5.21,1.0,CCCc1ccc(cc1)O
+383,3-methoxyaniline,-7.29,1.0,COc1cccc(c1)N
+384,alachlor,-8.21,1.0,CCc1cccc(c1N(COC)C(=O)CCl)CC
+385,iodobenzene,-1.74,1.0,c1ccc(cc1)I
+386,4-propylguaiacol,-5.26,1.0,CCCc1ccc(c(c1)OC)O
+387,1-bromo-4-methyl-benzene,-1.39,1.0,Cc1ccc(cc1)Br
+388,4-hydroxybenzonitrile,-10.17,1.0,c1cc(ccc1C#N)O
+389,3-ethylphenol,-6.25,1.0,CCc1cccc(c1)O
+390,"1,4-dibromobenzene",-2.3,1.0,c1cc(ccc1Br)Br
+391,dicamba,-9.86,1.0,COc1c(ccc(c1C(=O)O)Cl)Cl
+392,"1,2-dimethoxybenzene",-5.33,1.0,COc1ccccc1OC
+393,"3,4-dichlorophenol",-7.29,1.0,c1cc(c(cc1O)Cl)Cl
+394,anisole,-2.45,1.0,COc1ccccc1
+395,"2,5-dimethylphenol",-5.91,1.0,Cc1ccc(c(c1)O)C
+396,"1,4-dichlorobenzene",-1.01,1.0,c1cc(ccc1Cl)Cl
+397,"1,2,3,4-tetrachlorobenzene",-1.34,1.0,c1cc(c(c(c1Cl)Cl)Cl)Cl
+398,chlorobenzene,-1.12,1.0,c1ccc(cc1)Cl
+399,2-nitroaniline,-7.37,1.0,c1ccc(c(c1)N)[N+](=O)[O-]
+400,nitrobenzene,-4.12,1.0,c1ccc(cc1)[N+](=O)[O-]
+401,2-methylaniline,-5.53,1.0,Cc1ccccc1N
+402,1-ethyl-4-methyl-benzene,-0.95,1.0,CCc1ccc(cc1)C
+403,hexylbenzene,-0.04,1.0,CCCCCCc1ccccc1
+404,2-chlorosyringaldehyde,-7.78,1.0,COc1cc(c(c(c1O)OC)Cl)C=O
+405,m-bis(trifluoromethyl)benzene,1.07,1.0,c1cc(cc(c1)C(F)(F)F)C(F)(F)F
+406,4-fluorophenol,-6.19,1.0,c1cc(ccc1O)F
+407,2-chloroaniline,-4.91,1.0,c1ccc(c(c1)N)Cl
+408,"1,2,4-trimethylbenzene",-0.86,1.0,Cc1ccc(c(c1)C)C
+409,1-ethyl-2-methylbenzene,-0.85,1.0,CCc1ccccc1C
+410,"2,3-dimethylphenol",-6.16,1.0,Cc1cccc(c1C)O
+411,methylparathion,-7.19,1.0,COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-]
+412,diethoxy-(4-nitrophenoxy)-thioxo-$l^{5}-phosphane,-6.74,1.0,CCOP(=S)(OCC)Oc1ccc(cc1)[N+](=O)[O-]
+413,"1-N,1-N-diethyl-2,6-dinitro-4-(trifluoromethyl)benzene-1,3-diamine",-5.66,1.0,CCN(CC)c1c(cc(c(c1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-]
+414,nitralin,-7.98,1.0,CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]
+415,"N,N-4-trimethylbenzamide",-9.76,1.0,Cc1ccc(cc1)C(=O)N(C)C
+416,methyl benzoate,-3.92,1.0,COC(=O)c1ccccc1
+417,4-methylbenzaldehyde,-4.27,1.0,Cc1ccc(cc1)C=O
+418,mesitylene,-0.9,1.0,Cc1cc(cc(c1)C)C
+419,dichlobenil,-4.71,1.0,c1cc(c(c(c1)Cl)C#N)Cl
+420,"1,2,4,5-tetrachlorobenzene",-1.34,1.0,c1c(c(cc(c1Cl)Cl)Cl)Cl
+421,diethoxymethoxybenzene,-5.23,1.0,CCOC(OCC)Oc1ccccc1
+422,3-nitrophenol,-9.62,1.0,c1cc(cc(c1)O)[N+](=O)[O-]
+423,2-phenylethanol,-6.79,1.0,c1ccc(cc1)CCO
+424,fenuron,-9.13,1.0,CN(C)C(=O)Nc1ccccc1
+425,"2,6-dimethylaniline",-5.21,1.0,Cc1cccc(c1N)C
+426,3-nitroaniline,-8.84,1.0,c1cc(cc(c1)[N+](=O)[O-])N
+427,2-methoxyaniline,-6.12,1.0,COc1ccccc1N
+428,phenol,-6.6,1.0,c1ccc(cc1)O
+429,o-cresol,-5.9,1.0,Cc1ccccc1O
+430,4-nitrophenol,-10.64,1.0,c1cc(ccc1[N+](=O)[O-])O
+431,4-chloroaniline,-5.9,1.0,c1cc(ccc1N)Cl
+432,2-methylbenzaldehyde,-3.93,1.0,Cc1ccccc1C=O
+433,"N,N-dimethyl-4-nitro-benzamide",-11.95,1.0,CN(C)C(=O)c1ccc(cc1)[N+](=O)[O-]
+434,trifluralin,-3.25,1.0,CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+435,pentachloronitrobenzene,-5.22,1.0,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)N(=O)=O
+436,"1,2,2-trifluoroethoxybenzene",-1.29,1.0,c1ccc(cc1)O[C@@H](C(F)F)F
+437,sec-butylbenzene,-0.45,1.0,CC[C@H](C)c1ccccc1
+438,3-phenylpropan-1-ol,-6.92,1.0,c1ccc(cc1)CCCO
+439,"2-[(1R)-1-methylpropyl]-4,6-dinitro-phenolate",-6.23,1.0,CC[C@@H](C)c1cc(cc(c1O)[N+](=O)[O-])[N+](=O)[O-]
+440,methyl 4-methoxybenzoate,-5.33,1.0,COc1ccc(cc1)C(=O)OC
+441,"N-(3,4-dichlorophenyl)propanimidic acid",-7.78,1.0,CCC(=O)Nc1ccc(c(c1)Cl)Cl
+442,3-chloroaniline,-5.82,1.0,c1cc(cc(c1)Cl)N
+443,"N-butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)aniline",-3.51,1.0,CCCC[N@](CC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+444,1-(4-methoxyphenyl)ethanone,-4.4,1.0,CC(=O)c1ccc(cc1)OC
+445,"1,2,3,5-tetrachlorobenzene",-1.62,1.0,c1c(cc(c(c1Cl)Cl)Cl)Cl
+446,1-phenylethanone,-4.58,1.0,CC(=O)c1ccccc1
+447,"1,3,5-trichlorobenzene",-0.78,1.0,c1c(cc(cc1Cl)Cl)Cl
+448,propyl paraben,-9.37,1.0,CCCOC(=O)c1ccc(cc1)O
+449,3-chlorophenol,-6.62,1.0,c1cc(cc(c1)Cl)O
+450,benzamide,-11.0,1.0,c1ccc(cc1)C(=O)N
+451,1-methyl-3-nitro-benzene,-3.45,1.0,Cc1cccc(c1)[N+](=O)[O-]
+452,tert-butylbenzene,-0.44,1.0,CC(C)(C)c1ccccc1
+453,"2,4-dimethylphenol",-6.01,1.0,Cc1ccc(c(c1)C)O
+454,ibuprofen,-7.0,1.0,C[C@@H](c1ccc(cc1)CC(C)C)C(=O)O
+455,"3,4-dimethylphenol",-6.5,1.0,Cc1ccc(cc1C)O
+456,4-chloro-3-methyl-phenol,-6.79,1.0,Cc1cc(ccc1Cl)O
+457,isopropenylbenzene,-1.24,1.0,CC(=C)c1ccccc1
+458,bromobenzene,-1.46,1.0,c1ccc(cc1)Br
+459,1-methyl-2-nitro-benzene,-3.58,1.0,Cc1ccccc1[N+](=O)[O-]
+460,4-nitroaniline,-9.82,1.0,c1cc(ccc1N)N(=O)=O
+461,4-methoxyaniline,-7.48,1.0,COc1ccc(cc1)N
+462,isobutylbenzene,0.16,1.0,CC(C)Cc1ccccc1
+463,2-chlorophenol,-4.55,1.0,c1ccc(c(c1)O)Cl
+464,2-fluorophenol,-5.29,1.0,c1ccc(c(c1)O)F
+465,styrene,-1.24,1.0,C=Cc1ccccc1
+466,o-xylene,-0.9,1.0,Cc1ccccc1C
+467,p-cresol,-6.13,1.0,Cc1ccc(cc1)O
+468,2-methoxyphenol,-5.94,1.0,COc1ccccc1O
+469,2-nitrophenol,-4.58,1.0,c1ccc(c(c1)[N+](=O)[O-])O
+470,hexachlorobenzene,-2.33,1.0,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl
+471,4-hydroxybenzaldehyde,-8.83,1.0,c1cc(ccc1C=O)O
+472,2-ethylpyridine,-4.33,1.0,CCc1ccccn1
+473,2-methylpyridine,-4.63,1.0,Cc1ccccn1
+474,"2,4-dimethylpyridine",-4.86,1.0,Cc1ccnc(c1)C
+475,"3,4-dimethylpyridine",-5.22,1.0,Cc1ccncc1C
+476,2-chloropyridine,-4.39,1.0,c1ccnc(c1)Cl
+477,4-ethylpyridine,-4.73,1.0,CCc1ccncc1
+478,chlorpyrifos,-5.04,1.0,CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl
+479,1-(3-pyridyl)ethanone,-8.26,1.0,CC(=O)c1cccnc1
+480,pyridine,-4.69,1.0,c1ccncc1
+481,"2,6-dimethylpyridine",-4.59,1.0,Cc1cccc(n1)C
+482,pyridine-3-carbaldehyde,-7.1,1.0,c1cc(cnc1)C=O
+483,pyridine-3-carbonitrile,-6.75,1.0,c1cc(cnc1)C#N
+484,pyridine-4-carbaldehyde,-7.0,1.0,c1cnccc1C=O
+485,3-chloropyridine,-4.01,1.0,c1cc(cnc1)Cl
+486,4-methylpyridine,-4.93,1.0,Cc1ccncc1
+487,3-methylpyridine,-4.77,1.0,Cc1cccnc1
+488,"2,3-dimethylpyridine",-4.82,1.0,Cc1cccnc1C
+489,pyridine-4-carbonitrile,-6.02,1.0,c1cnccc1C#N
+490,1-(4-pyridyl)ethanone,-7.62,1.0,CC(=O)c1ccncc1
+491,"2,5-dimethylpyridine",-4.72,1.0,Cc1ccc(nc1)C
+492,3-ethylpyridine,-4.59,1.0,CCc1cccnc1
+493,"3,5-dimethylpyridine",-4.84,1.0,Cc1cc(cnc1)C
+494,"1,2,4,5-tetrachloro-3-(3,4-dichlorophenyl)benzene",-4.38,1.0,c1cc(c(cc1c2c(c(cc(c2Cl)Cl)Cl)Cl)Cl)Cl
+495,"1,4-dichloro-2-phenyl-benzene",-2.46,1.0,c1ccc(cc1)c2cc(ccc2Cl)Cl
+496,"1,2,3,4-tetrachloro-5-phenyl-benzene",-3.48,1.0,c1ccc(cc1)c2cc(c(c(c2Cl)Cl)Cl)Cl
+497,"1,2,3,4-tetrachloro-5-(3,4,5-trichlorophenyl)benzene",-3.17,1.0,c1c(cc(c(c1Cl)Cl)Cl)c2cc(c(c(c2Cl)Cl)Cl)Cl
+498,"1,2,3,4-tetrachloro-5-(3,4-dichlorophenyl)benzene",-3.04,1.0,c1cc(c(cc1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl
+499,"1,2,3,4,5-pentachloro-6-(2,3,4,5,6-pentachlorophenyl)benzene",-2.98,1.0,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl
+500,1-chloro-2-phenyl-benzene,-2.69,1.0,c1ccc(cc1)c2ccccc2Cl
+501,"1,2,3,4-tetrachloro-5-(2,3,4-trichlorophenyl)benzene",-4.4,1.0,c1cc(c(c(c1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl)Cl
+502,"1,3-dichloro-2-(2,6-dichlorophenyl)benzene",-2.28,1.0,c1cc(c(c(c1)Cl)c2c(cccc2Cl)Cl)Cl
+503,diflunisal,-9.4,1.0,c1cc(c(cc1c2ccc(cc2F)F)C(=O)O)O
+504,biphenyl,-2.7,1.0,c1ccc(cc1)c2ccccc2
+505,flurbiprofen,-8.42,1.0,C[C@@H](c1ccc(c(c1)F)c2ccccc2)C(=O)O
+506,"1,2,3,4-tetrachloro-5-(2,3,4,6-tetrachlorophenyl)benzene",-4.61,1.0,c1c(c(c(c(c1Cl)Cl)Cl)Cl)c2c(cc(c(c2Cl)Cl)Cl)Cl
+507,"1,2,3-trichloro-5-(2,5-dichlorophenyl)benzene",-3.61,1.0,c1cc(c(cc1Cl)c2cc(c(c(c2)Cl)Cl)Cl)Cl
+508,"1,3,5-trichloro-2-(2,6-dichlorophenyl)benzene",-1.96,1.0,c1cc(c(c(c1)Cl)c2c(cc(cc2Cl)Cl)Cl)Cl
+509,"1,3,5-trichloro-2-phenyl-benzene",-2.16,1.0,c1ccc(cc1)c2c(cc(cc2Cl)Cl)Cl
+510,naphthalen-2-ol,-8.11,1.0,c1ccc2cc(ccc2c1)O
+511,"2,6-dimethylnaphthalene",-2.63,1.0,Cc1ccc2cc(ccc2c1)C
+512,naphthalene,-2.4,1.0,c1ccc2ccccc2c1
+513,naphthalen-1-yl N-methylcarbamate,-9.45,1.0,CNC(=O)Oc1cccc2c1cccc2
+514,"1,3-dimethylnaphthalene",-2.47,1.0,Cc1cc(c2ccccc2c1)C
+515,"2,3-dimethylnaphthalene",-2.78,1.0,Cc1cc2ccccc2cc1C
+516,naphthalen-1-amine,-7.28,1.0,c1ccc2c(c1)cccc2N
+517,"1,4-dimethylnaphthalene",-2.82,1.0,Cc1ccc(c2c1cccc2)C
+518,1-ethylnaphthalene,-2.4,1.0,CCc1cccc2c1cccc2
+519,naphthalen-1-ol,-7.67,1.0,c1ccc2c(c1)cccc2O
+520,naproxen,-10.21,1.0,C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O
+521,naphthalen-2-amine,-7.47,1.0,c1ccc2cc(ccc2c1)N
+522,1-methylnaphthalene,-2.44,1.0,Cc1cccc2c1cccc2
+523,"2,3-dichlorodibenzo-p-dioxin",-3.56,1.0,c1ccc2c(c1)Oc3cc(c(cc3O2)Cl)Cl
+524,"1,2,3,7-tetrachlorodibenzo-p-dioxin",-3.84,1.0,c1cc2c(cc1Cl)Oc3cc(c(c(c3O2)Cl)Cl)Cl
+525,2-chlorodibenzo-p-dioxin,-3.1,1.0,c1ccc2c(c1)Oc3ccc(cc3O2)Cl
+526,"1,2,3,4,7-pentachlorodibenzo-p-dioxin",-4.15,1.0,c1cc2c(cc1Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2
+527,"1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin",-4.53,1.0,c12c(c(c(c(c1Cl)Cl)Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2
+528,"1,2,4-trichlorodibenzo-p-dioxin",-4.05,1.0,c1ccc2c(c1)Oc3c(cc(c(c3O2)Cl)Cl)Cl
+529,"2,7-dichlorodibenzo-p-dioxin",-3.67,1.0,c1cc2c(cc1Cl)Oc3ccc(cc3O2)Cl
+530,"1,2,3,4-tetrachlorodibenzo-p-dioxin",-3.81,1.0,c1ccc2c(c1)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2
+531,dibenzo-p-dioxin,-3.15,1.0,c1ccc2c(c1)Oc3ccccc3O2
+532,1-chlorodibenzo-p-dioxin,-3.52,1.0,c1ccc2c(c1)Oc3cccc(c3O2)Cl
+533,"2,3,7,8-tetrachlorodibenzo-p-dioxin",-3.37,1.0,c1c2c(cc(c1Cl)Cl)Oc3cc(c(cc3O2)Cl)Cl
+534,"1,2,3,4,7,8-hexachlorodibenzo-p-dioxin",-3.71,1.0,c1c2c(cc(c1Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2
+535,"1,2-dimethylcyclohexane",1.58,1.0,C[C@@H]1CCCC[C@@H]1C
+536,cyclohexane,1.23,1.0,C1CCCCC1
+537,cyclohexanamine,-4.59,1.0,C1CCC(CC1)N
+538,methylcyclohexane,1.7,1.0,CC1CCCCC1
+539,methyl cyclohexanecarboxylate,-3.3,1.0,COC(=O)C1CCCCC1
+540,"1,4-dimethylcyclohexane",2.11,1.0,CC1CCC(CC1)C
+541,cyclohexanol,-5.46,1.0,C1CCC(CC1)O
+542,1-cyclohexylethanone,-3.9,1.0,CC(=O)C1CCCCC1
+543,"(1R,2S,5R)-2-isopropyl-5-methylcyclohexanol",-3.2,1.0,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C
+544,5-bromouracil,-18.17,1.0,c1c(c(=O)[nH]c(=O)[nH]1)Br
+545,bromacil,-9.73,1.0,CC[C@H](C)n1c(=O)c(c([nH]c1=O)C)Br
+546,6-chlorouracil,-15.83,1.0,c1c(=O)[nH]c(=O)[nH]c1Cl
+547,5-iodouracil,-18.72,1.0,c1c(c(=O)[nH]c(=O)[nH]1)I
+548,5-fluorouracil,-16.92,1.0,c1c(c(=O)[nH]c(=O)[nH]1)F
+549,5-trifluoromethyluracil,-15.46,1.0,c1c(c(=O)[nH]c(=O)[nH]1)C(F)(F)F
+550,terbacil,-11.14,1.0,Cc1c(c(=O)n(c(=O)[nH]1)C(C)(C)C)Cl
+551,5-chlorouracil,-17.74,1.0,c1c(c(=O)[nH]c(=O)[nH]1)Cl
+552,methylcyclopentane,1.59,1.0,CC1CCCC1
+553,cyclopentanol,-5.49,1.0,C1CCC(C1)O
+554,pentylcyclopentane,2.55,1.0,CCCCCC1CCCC1
+555,propylcyclopentane,2.13,1.0,CCCC1CCCC1
+556,cyclopentane,1.2,1.0,C1CCCC1
+557,"1-(2-hydroxyethylamino)-9,10-anthraquinone",-14.21,1.0,c1ccc2c(c1)C(=O)c3cccc(c3C2=O)NCCO
+558,"1-amino-4-hydroxy-9,10-anthracenedione",-9.53,1.0,c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)O)N
+559,"1,4-diamino-9,10-anthracenedione",-11.85,1.0,c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)N)N
+560,"1-amino-9,10-anthracenedione",-9.44,1.0,c1ccc2c(c1)C(=O)c3cccc(c3C2=O)N
+561,"2-amino-9,10-anthraquinone",-11.53,1.0,c1ccc2c(c1)C(=O)c3ccc(cc3C2=O)N
+562,cyclohexene,0.14,1.0,C1CCC=CC1
+563,1-methylcyclohexene,0.67,1.0,CC1=CCCCC1
+564,"(1S,5R)-2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol",-4.44,1.0,CC1=CC[C@H](C[C@@H]1O)C(=C)C
+565,4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde,-4.09,1.0,CC(=C)[C@H]1CCC(=CC1)C=O
+566,cyclohexanone,-4.91,1.0,C1CCC(=O)CC1
+567,"(2S,5R)-2-isopropyl-5-methylcyclohexanone",-2.53,1.0,C[C@@H]1CC[C@H](C(=O)C1)C(C)C
+568,"(2R,5R)-2-methyl-5-(1-methylethenyl)-cyclohexanone",-3.75,1.0,C[C@@H]1CC[C@H](CC1=O)C(=C)C
+569,2-methyltetrahydrofuran,-3.3,1.0,C[C@H]1CCCO1
+570,"2,5-dimethyltetrahydrofuran",-2.92,1.0,C[C@H]1CC[C@@H](O1)C
+571,tetrahydrofuran,-3.47,1.0,C1CCOC1
+572,tetrahydropyran,-3.12,1.0,C1CCOCC1
+573,"(2S,3R,4S,5R)-oxane-2,3,4,5-tetrol",-20.52,1.0,C1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O
+574,"(2R,3R,4S,5S,6R)-6-(hydroxymethyl)tetrahydropyran-2,3,4,5-tetrol",-25.47,1.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O
+575,pirimor,-9.41,1.0,Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C
+576,diazinon,-6.48,1.0,CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C
