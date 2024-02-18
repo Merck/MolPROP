@@ -28,6 +28,7 @@ current models include:
 
 ## preprocess data
 ### data splitting
+- data splits to reproduce manuscript results are provided: ./data/*csv
 - data should be in data directory (e.g., csv format) and organized such that SMILES string and endpoints are in separate columns
 - data can be split using the Bemis-Murko scaffold split implemented by DeepChem
 - explore the help options to execute the data split procedure
